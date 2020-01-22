@@ -8,6 +8,7 @@
 
 //Added for the default_resource example
 #include<fstream>
+#include<iostream>
 
 using namespace std;
 //Added for the json-example:
